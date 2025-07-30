@@ -1,0 +1,112 @@
+Arch: win64
+CompatData: ''
+Creation_Date: '2025-07-29 14:03:28.831751'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-2.7
+Environment: Custom
+Environment_Variables: {}
+External_Programs:
+    7aebf215-c117-4cc2-99c8-bacfbcfad6a7:
+        arguments: ''
+        dxvk: null
+        dxvk_nvapi: null
+        executable: CLIPStudioPaint.exe
+        folder: /home/sleepy/.var/app/com.usebottles.bottles/data/bottles/bottles/Clip-Studio-Paint/drive_c/Program
+            Files/CELSYS/CLIP STUDIO 1.5/CLIP STUDIO PAINT
+        fsr: null
+        gamescope: null
+        icon: com.usebottles.bottles-program
+        id: 7aebf215-c117-4cc2-99c8-bacfbcfad6a7
+        name: CLIPStudioPaint
+        path: /home/sleepy/.var/app/com.usebottles.bottles/data/bottles/bottles/Clip-Studio-Paint/drive_c/Program
+            Files/CELSYS/CLIP STUDIO 1.5/CLIP STUDIO PAINT/CLIPStudioPaint.exe
+        post_script: null
+        pre_script: null
+        pulseaudio_latency: null
+        removed: null
+        virtual_desktop: null
+        vkd3d: null
+Installed_Dependencies:
+- vcredist2019
+- andale32
+- arial32
+- arialb32
+- comic32
+- courie32
+- georgi32
+- impact32
+- tahoma32
+- times32
+- trebuc32
+- verdan32
+- webdin32
+- allfonts
+- gecko
+- cjkfonts
+Language: sys
+LatencyFleX: latencyflex-v0.1.1
+NVAPI: dxvk-nvapi-v0.9.0
+Name: Clip Studio Paint
+Parameters:
+    custom_dpi: 120
+    decorated: true
+    discrete_gpu: true
+    dxvk: true
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: false
+    fsr_quality_mode: none
+    fsr_sharpening_strength: 2
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    mangohud_display_on_game_start: true
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: vulkan
+    sandbox: false
+    sync: wine
+    take_focus: true
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: false
+    versioning_compression: false
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: true
+    vmtouch: false
+    vmtouch_cache_cwd: false
+Path: Clip-Studio-Paint
+Runner: kron4ek-wine-10.12-amd64
+RunnerPath: ''
+Sandbox:
+    share_net: false
+    share_sound: false
+State: 0
+Uninstallers: {}
+Update_Date: '2025-07-30 14:19:45.751209'
+VKD3D: vkd3d-proton-2.14.1
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win81
+WorkingDir: ''
+data: {}
+run_in_terminal: false
+session_arguments: ''
